@@ -4,6 +4,10 @@
 # 21fx
 ## 21fx
 
+![21fx board](https://raw.githubusercontent.com/sttng/21FX/refs/heads/master/photos/IMG_2897.JPG)
+
+
+
 21fx is an expansion port device for the SNES designed for emulation research.
 The hardware was designed by defparam, and the firmware and register interface was designed by byuu.
 It consists of two components: an expansion bridge to connect to the SNES expansion port and convert the interface to a DB25 data port, a stereo audio input jack, and a monaural audio output jack; and a hook which contains the actual logic and interfaces between the expansion port and the SNES.
