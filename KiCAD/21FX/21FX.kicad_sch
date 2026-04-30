@@ -9851,7 +9851,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f69c62af-d429-4433-b317-375b8b10ca7e")
 		(property "Reference" "X1"
 			(at 120.65 26.5998 0)
@@ -9861,15 +9860,15 @@
 				)
 			)
 		)
-		(property "Value" "ASDMB-xxxMHz"
-			(at 120.65 29.1398 0)
+		(property "Value" "CTX314CT-ND 40mhz"
+			(at 106.68 41.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASDMB-4Pin_2.5x2.0mm"
+		(property "Footprint" "Oscillator:Oscillator_SMD_Abracon_ASV-4Pin_7.0x5.1mm"
 			(at 104.14 33.02 0)
 			(effects
 				(font
